@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://examencn.tk/');
+define('URL', 'http://3.83.134.201/');
 define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/articles/');
 
 define('HOST', 'localhost');
