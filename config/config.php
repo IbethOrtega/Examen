@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://35.222.252.78/articles/');
+define('URL', 'http://34.69.44.48/articles/login');
 define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/articles/');
 
 define('HOST', 'localhost');
