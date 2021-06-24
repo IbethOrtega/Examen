@@ -1,9 +1,9 @@
 <?php
 
-define('URL', 'http://localhost/articles');
+define('URL', 'http://mysql/articles');
 define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/articles/');
 
-define('HOST', 'localhost');
+define('HOST', 'mysql');
 define('DB', 'articles');
 define('USER', 'root');
 define('PASSWORD', "");
